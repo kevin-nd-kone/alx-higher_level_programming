@@ -8,6 +8,3 @@ def print_last_digit(number):
     else:
         last = number % 10
     return last
-
-
-print(print_last_digit(-98))
