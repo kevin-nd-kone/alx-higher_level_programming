@@ -7,4 +7,4 @@ if __name__ == "main":
         code = code(sys.argv[num])
         if code.isdigit():
             s += int(sys.argv[num])
-    print(sum)
+    print(s)
