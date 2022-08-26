@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from calculator_1 import *
 import sys
-"""Write a program that based on value that are passed to param 
+"""Write a program that based on value that are passed to param
 make some compute"""
 
 if len(sys.argv) != 4:
