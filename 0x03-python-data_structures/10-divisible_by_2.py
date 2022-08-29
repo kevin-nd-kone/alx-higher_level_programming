@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def divisible_by_2(my_list=[]):
     bool_list = []
     for elt in my_list:
