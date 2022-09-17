@@ -2,11 +2,10 @@
 def safe_print_list(my_list=[], x=0):
     try:
         newList = my_list[:x]
-        l = 0
+        length = 0
         for i in newList:
-            l += 1
+            length += 1
         print(''.join(str(i) for i in newList))
-        return l
+        return length
     except:
         print()
-
