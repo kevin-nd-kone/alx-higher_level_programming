@@ -7,5 +7,5 @@ def safe_print_list(my_list=[], x=0):
             length += 1
         print(''.join(str(i) for i in newList))
         return length
-    except:
+    except IndexError:
         print()
