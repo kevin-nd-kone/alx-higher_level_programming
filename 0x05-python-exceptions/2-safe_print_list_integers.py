@@ -11,6 +11,6 @@ def safe_print_list_integers(my_list=[], x=0):
                     value += str(elt)
                     length += 1
             except TypeError:
-                pass
+                continue
     print("{:d}".format(int(value)))
     return length
