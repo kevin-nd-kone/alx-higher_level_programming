@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 class Rectangle:
-    width = 0
-    height = 0
+    width
+    height
 
     def __init__(self, width=0, height=0):
         self.height = height
