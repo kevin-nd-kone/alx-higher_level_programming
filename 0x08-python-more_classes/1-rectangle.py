@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """Define a Rectangle class"""
+
+
 class Rectangle:
 
     """Rectangle class constructor"""
@@ -42,4 +44,3 @@ class Rectangle:
         if value < 0:
             raise ValueError("height must be >= 0")
         self.__height = value
-
