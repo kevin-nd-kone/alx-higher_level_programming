@@ -9,7 +9,7 @@ class Rectangle:
         self.width = width
 
     def width(self):
-        
+
         return self.width
 
     def width(self, value):
@@ -22,7 +22,7 @@ class Rectangle:
     def height(self):
 
         return self.height
-        
+
     def height(self, value):
         if type(value) != int:
             raise TypeError('height must be an integer')
