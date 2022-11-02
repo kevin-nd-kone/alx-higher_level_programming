@@ -1,0 +1,3 @@
+-- Create a DATABASE if is not EXISTS
+DROP DATABASE hbtn_0c_0;
+CREATE DATABASE hbtn_0c_0;
