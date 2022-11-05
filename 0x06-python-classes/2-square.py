@@ -6,10 +6,11 @@ Nothing to import
 
 class Square:
     """
-
+    define class body
     """
     def __init__(self, size=0):
         """
+        class constructor definition
         """
         self.__size = size
         try:
