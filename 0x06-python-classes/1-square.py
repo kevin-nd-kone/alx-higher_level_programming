@@ -15,4 +15,3 @@ class Square:
         Private attribute size
         """
         self.__size = size
-        
