@@ -3,9 +3,9 @@
 """
 Define square class
 """
-class Square:
 
-    
+
+class Square:
     """
     Empty class
     """
