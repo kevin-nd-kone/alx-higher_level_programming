@@ -3,6 +3,7 @@
 Empty comment
 """
 
+
 class Square:
     """
     Define class constructor
@@ -14,3 +15,4 @@ class Square:
         Private attribute size
         """
         self.__size = size
+        
