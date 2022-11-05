@@ -4,7 +4,7 @@ Nothing to import
 """
 
 
-class Squarre:
+class Square:
     """
 
     """
