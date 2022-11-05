@@ -3,6 +3,7 @@
 Empty comment
 """
 
+
 class Square:
     """
     Define class constructor
